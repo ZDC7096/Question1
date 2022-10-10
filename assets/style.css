@@ -16,6 +16,7 @@ header{
     min-width: 700px;
     position: relative;
     text-align: center;
+    padding-top: 0.3em;
     font-size: 50px;
     font-family: fantasy;
     border-radius: 10px;
@@ -23,7 +24,7 @@ header{
     
 }
 .question{
-    background: blue;
+
     background-color: #b211ee;
     height: 400px;
     min-width: 750px;
@@ -82,10 +83,13 @@ header{
 
 a{
     position: relative;
-    background-color: #b211ee;
+    background-colo: #afa5a7;
     color: white;
     font-family: fantasy;
+    border-radius: 25px;
     font-size: 40px;
     min-width: 500px;
-    height: 100px
+    height: 100px;
+    text-decoration: none;
+    text-align: center;
 }
