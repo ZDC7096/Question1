@@ -4,4 +4,4 @@
         document.getElementById("btnD").innerHTML = "CORRECT";
         document.getElementById('next').innerHTML = 'CLICK FOR NEXT QUESTION!';
         document.getElementById('next').style.backgroundColor = '#b211ee'
-    }
+}
